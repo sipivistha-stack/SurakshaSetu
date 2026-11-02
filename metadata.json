@@ -1,0 +1,6 @@
+{
+  "name": "AICTE Smart Security Deposit & FDR Management Portal",
+  "description": "Centralized digital platform for managing technical institution security deposits and Fixed Deposit Receipts (FDRs), intelligent OCR verification, maturity tracking, and release workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
